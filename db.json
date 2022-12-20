@@ -1,0 +1,9 @@
+{
+  "perifericos": [
+      {
+          "fone": 2,
+          "telefone" : 1,
+          "relogia": 3
+      }
+  ]
+}
